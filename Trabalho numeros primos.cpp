@@ -3,7 +3,7 @@
 
 /****************************************************
 * Trab 2 : Numeros Primos
-* Nome e Matricula: Lucas José Santana Silva    0050015239 
+* Nome e Matricula: Lucas JosÃ© Santana Silva    0050015239 
 * Professor: Alex Salgado
 *****************************************************/
 
@@ -68,7 +68,7 @@ int main()
   {
 
 
-     printf("Obrigado, ate a proxima! Para ver o meu codigo entre no link\n\n");
+     printf("Obrigado, ate a proxima! Para ver o meu codigo entre no link\n\n https://github.com/lucasjose10/Trabalho-numero/blob/master/Trabalho%20numeros%20primos.cpp");
   }
 
 
